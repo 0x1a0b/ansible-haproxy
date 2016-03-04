@@ -3,7 +3,6 @@
 [haproxy](http://www.haproxy.org/) - The Reliable, High Performance TCP/HTTP Load Balancer
 
 [![Platforms](http://img.shields.io/badge/platforms-ubuntu-lightgrey.svg?style=flat)](#)
-[![Status](https://travis-ci.org/colstrom/ansible-haproxy.svg?branch=master)](#)
 
 ## Important!
 
