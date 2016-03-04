@@ -48,7 +48,7 @@ Options that weaken HTTPS have been removed from this playbook, including (at le
 
 ## Dependencies
 
-* [colstrom.apt-repository](https://github.com/colstrom/ansible-apt-repository/)
+* [hpe-cloud-garage.apt-repository](https://github.com/hpe-cloud-garage/ansible-apt-repository/)
 
 ## Example Playbook
     - hosts: servers
