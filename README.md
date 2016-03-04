@@ -53,7 +53,7 @@ Options that weaken HTTPS have been removed from this playbook, including (at le
 ## Example Playbook
     - hosts: servers
       roles:
-         - role: colstrom.haproxy
+         - role: hpe-cloud-garage.haproxy
            haproxy_backend_host_range_enabled: yes
            haproxy_backend_network: 10.0.2
            haproxy_backend_host_range_start: 20
