@@ -1,4 +1,4 @@
-* ansible-haproxy
+#+TITLE: ansible-haproxy
 
 [[http://www.haproxy.org/][haproxy]] - The Reliable, High Performance
 TCP/HTTP Load Balancer
