@@ -81,7 +81,7 @@ support old browsers have been disabled.
 
 [[https://tldrlegal.com/license/mit-license][MIT]]
 
-** Contributors
+* Contributors
 
 -  [[https://colstrom.github.io/][Chris Olstrom]] |
    [[mailto:chris@olstrom.com][e-mail]] |
