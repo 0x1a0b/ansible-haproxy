@@ -9,7 +9,6 @@
 
 Options that weaken HTTPS have been removed from this playbook, including (at least):
 
-** Tunables
 - Configured for Perfect Forward Secrecy.
 - TLS Tickets are disabled.
 - SSLv3 is disabled.
@@ -61,6 +60,8 @@ Options that weaken HTTPS have been removed from this playbook, including (at le
 -  =haproxy_restricted_paths= (list) - Paths to restrict access to
 -  =haproxy_allow_access_to_restricted_paths_from_ips= (list) - IPs to
    allow access to restricted paths
+* Tunables
+
 
 * Dependencies
 
