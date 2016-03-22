@@ -65,7 +65,7 @@ support old browsers have been disabled.
 
 -  [[https://github.com/colstrom/ansible-apt-repository/][colstrom.apt-repository]]
 
-** Example Playbook
+* Example Playbook
 
 #+BEGIN_EXAMPLE
     - hosts: servers
