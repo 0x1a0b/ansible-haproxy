@@ -77,7 +77,7 @@ support old browsers have been disabled.
            haproxy_backend_host_range_end: 40
 #+END_EXAMPLE
 
-** License
+* License
 
 [[https://tldrlegal.com/license/mit-license][MIT]]
 
