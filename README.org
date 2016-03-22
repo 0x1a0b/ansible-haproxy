@@ -5,7 +5,7 @@
 [[#][[[http://img.shields.io/badge/platforms-ubuntu-lightgrey.svg?style=flat]]]]
 [[#][[[https://travis-ci.org/colstrom/ansible-haproxy.svg?branch=master]]]]
 
-** Important!
+* Important!
 
 Options that weaken HTTPS have been removed from this playbook,
 including (at least): * Configured for Perfect Forward Secrecy. * TLS
