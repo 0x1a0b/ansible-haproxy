@@ -1,7 +1,6 @@
 #+TITLE: ansible-haproxy
 
-[[http://www.haproxy.org/][haproxy]] - The Reliable, High Performance
-TCP/HTTP Load Balancer
+[[http://www.haproxy.org/][haproxy]] - The Reliable, High Performance TCP/HTTP Load Balancer
 
 [[#][[[http://img.shields.io/badge/platforms-ubuntu-lightgrey.svg?style=flat]]]]
 [[#][[[https://travis-ci.org/colstrom/ansible-haproxy.svg?branch=master]]]]
