@@ -67,15 +67,15 @@ support old browsers have been disabled.
 
 * Example Playbook
 
-#+BEGIN_EXAMPLE
-    - hosts: servers
-      roles:
-         - role: colstrom.haproxy
-           haproxy_backend_host_range_enabled: yes
-           haproxy_backend_network: 10.0.2
-           haproxy_backend_host_range_start: 20
-           haproxy_backend_host_range_end: 40
-#+END_EXAMPLE
+#+BEGIN_SRC yaml
+  - hosts: servers
+    roles:
+       - role: colstrom.haproxy
+         haproxy_backend_host_range_enabled: yes
+         haproxy_backend_network: 10.0.2
+         haproxy_backend_host_range_start: 20
+         haproxy_backend_host_range_end: 40
+#+END_SRC
 
 * License
 
