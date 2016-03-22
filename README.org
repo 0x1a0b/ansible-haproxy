@@ -7,12 +7,13 @@
 
 * Important!
 
-Options that weaken HTTPS have been removed from this playbook,
-including (at least): * Configured for Perfect Forward Secrecy. * TLS
-Tickets are disabled. * SSLv3 is disabled. * Weak ciphers required to
-support old browsers have been disabled.
+Options that weaken HTTPS have been removed from this playbook, including (at least):
 
 ** Tunables
+- Configured for Perfect Forward Secrecy.
+- TLS Tickets are disabled.
+- SSLv3 is disabled.
+- Weak ciphers required to support old browsers have been disabled.
 
 -  =haproxy_version= (integer) - Version number of haproxy to install
 -  =haproxy_user= (string) - User to run haproxy as
